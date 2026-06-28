@@ -1,4 +1,4 @@
-# kailatex
+# kailatex-skill
 
 把碎片化的资料整理成工整、清晰排版的 PDF 的一套规范与脚本。
 
